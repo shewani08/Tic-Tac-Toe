@@ -29,7 +29,7 @@ function resetval(win){
          box.disabled=false;
          
     });
-    alert(win)
+    alert(win);
 }
 function checkWinner(){
     let winner;
